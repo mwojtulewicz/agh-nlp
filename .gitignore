@@ -1,4 +1,7 @@
 data/
 wyklady/
 
+testing.ipynb
+
 .vscode/
+__pycache__/
